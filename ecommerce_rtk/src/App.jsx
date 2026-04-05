@@ -8,7 +8,7 @@ const App = () => {
  
       <div>
         <h1 className='app-heading'>E-Commerce Application</h1>
-        <ProductList />
+        //<ProductList />
         <ShoppingCart />
       </div>
 
